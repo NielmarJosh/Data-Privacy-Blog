@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Awareness</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cybersecurity Awareness</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="best-practices.html">Best Practices</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>What is Cybersecurity?</h2>
+            <p>Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.</p>
+        </section>
+        <section>
+            <h2>Why is Cybersecurity Important?</h2>
+            <p>With the increasing reliance on technology, the importance of cybersecurity cannot be overstated. It helps protect personal information, financial data, and national security. As threats evolve, so must our strategies to combat them.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Cybersecurity Awareness</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Practices - Cybersecurity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cybersecurity Awareness</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="best-practices.html">Best Practices</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Best Practices for Staying Safe Online</h2>
+            <ul>
+                <li>Use strong, unique passwords for each of your accounts.</li>
+                <li>Enable two-factor authentication (2FA) wherever possible.</li>
+                <li>Be cautious of suspicious emails and links.</li>
+                <li>Keep your software and systems updated.</li>
+                <li>Regularly back up your data.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Cybersecurity Awareness</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importance of Data Privacy and Cybersecurity</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Importance of Data Privacy and Cybersecurity</h1>
+
+    <h2>Reaction Statement</h2>
+    <p>I think data privacy and cybersecurity is important because without it, the Internet will be a Wild West and it would not function perpetually.</p>
+
+    <h2>Significance</h2>
+    <p>Without robust data privacy and cybersecurity measures, the Internet could become chaotic and unsafe, resembling a "Wild West" environment. This lack of protection could lead to:</p>
+    <ul>
+        <li><strong>Increased Cybercrime:</strong> A rise in identity theft, fraud, and other malicious activities.</li>
+        <li><strong>Erosion of Trust:</strong> Users may hesitate to engage in online transactions or share personal information, stifling innovation and growth.</li>
+        <li><strong>Systemic Vulnerabilities:</strong> Critical systems could become susceptible to attacks, disrupting essential services.</li>
+    </ul>
+
+    <h2>Conclusion</h2>
+    <p>The importance of data privacy and cybersecurity cannot be overstated. They are fundamental to ensuring the Internet remains a secure and reliable space for users and organizations alike.</p>
+
+</body>
+</html>
